@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8POC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/CollectorsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/CollectorsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/MapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ReduceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/BiFunctionEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/FunctionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/consumer/ConsumerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/BipredicateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Example1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MSb37o1Lq5WiHVakfh9wOE4N1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CollectorsEx1">
+    <configuration name="CollectorsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.CollectorsEx" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectorsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.CollectorsEx1" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Joining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.Joining" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.MaxAndMin" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.StreamCreation" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectorsEx1" />
+        <item itemvalue="Application.Joining" />
+        <item itemvalue="Application.CollectorsEx" />
+        <item itemvalue="Application.StreamCreation" />
+        <item itemvalue="Application.MaxAndMin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="" />
+      <created>1677763733236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677763733236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
