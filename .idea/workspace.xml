@@ -5,36 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8POC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/CollectorsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/CollectorsEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/Joining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/MapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/MaxAndMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ReduceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/BiFunctionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/FunctionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/consumer/ConsumerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/BipredicateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Peek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/SupplierEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Optional/Optional2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Optional/OptionalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/StudentUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/foreach/forEachEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/foreach/foreachOrderedEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/Joining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/Joiner/Joining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,47 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/rpannala/Downloads/springMongoDBDemo"
   }
-}</component>
-  <component name="RunManager" selected="Application.CollectorsEx1">
-    <configuration name="CollectorsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.CollectorsEx" />
-      <module name="Java8POC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectorsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.CollectorsEx1" />
-      <module name="Java8POC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rpannala\Downloads\Java8POC\src\com\java8\features\Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Joining">
     <configuration name="Joining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.Collectors.Joining" />
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Joiner.Joining" />
       <module name="Java8POC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.Collectors.*" />
+          <option name="PATTERN" value="com.java8.features.Joiner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +81,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.MaxAndMin" />
+    <configuration name="SortedEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx2" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx3" />
       <module name="Java8POC" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectorsEx1" />
         <item itemvalue="Application.Joining" />
-        <item itemvalue="Application.CollectorsEx" />
+        <item itemvalue="Application.SortedEx3" />
+        <item itemvalue="Application.SortedEx2" />
+        <item itemvalue="Application.SortedEx" />
         <item itemvalue="Application.StreamCreation" />
-        <item itemvalue="Application.MaxAndMin" />
       </list>
     </recent_temporary>
   </component>

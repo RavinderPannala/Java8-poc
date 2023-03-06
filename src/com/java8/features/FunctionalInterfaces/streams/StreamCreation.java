@@ -14,10 +14,11 @@ public class StreamCreation {
 
     public static void main(String[] args) {
 
+        //The empty() method is used upon creation to avoid returning null for streams with no element
         Stream<Object> empty = Stream.empty();
         System.out.println(empty.findFirst());//Optional.empty
 
-        //Create stream with of
+        //Stream.of(T…t) method can be used to create a stream with the specified t values, where t are the elements
         Stream<Integer> integerStream = Stream.of(1, 2, 3, 4, 5);
 
         //Create Stream with Collection
@@ -44,6 +45,10 @@ public class StreamCreation {
         limit.forEach(System.out::println);
 
         //Create Stream with Iterate
+        /*
+        The iterate() method returns an infinite sequential ordered Stream produced by
+        iterative application of a function f to an initial element seed
+         */
         UnaryOperator<Integer> integerUnaryOperator = i->i*10;
         Stream<Integer> limit1 = Stream.iterate(1, integerUnaryOperator).limit(10);
         limit1.forEach(System.out::println);

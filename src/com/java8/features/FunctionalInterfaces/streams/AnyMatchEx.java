@@ -31,7 +31,7 @@ public class AnyMatchEx {
 
         //Count the number of elements in stream
         long count = list.stream().count();
-        System.out.println("Count the number of elements avaialble in Stream"+ count);
+        System.out.println("Count the number of elements available in Stream"+ count);
 
         //Distinct elements from the stream
         list.stream().distinct().forEach(System.out::println);

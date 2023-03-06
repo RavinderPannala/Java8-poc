@@ -18,6 +18,13 @@ public class SkipAndLimit {
         //Limit the Elemets from list
 
         List<Integer> collect = list.stream().limit(1).collect(Collectors.toList());
+        List<Integer> collect3 =list.stream().limit(1).collect(Collectors.toList());
+        List<Integer> collect2=  list.stream().limit(1).collect(Collectors.toList());
         System.out.println("Limit  the n elements from list"+ collect);
+        System.out.println("Limit  the n elements from list"+ collect3);
+        System.out.println("Limit  the n elements from list"+ collect2);
+
+        List<Integer> collect4=  list.parallelStream().limit(1).collect(Collectors.toList());
+        System.out.println("Limit  the n elements from list"+ collect4);
     }
 }

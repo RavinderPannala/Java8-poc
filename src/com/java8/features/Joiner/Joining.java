@@ -1,4 +1,4 @@
-package com.java8.features.FunctionalInterfaces.Collectors;
+package com.java8.features.Joiner;
 
 
 import java.util.Arrays;
