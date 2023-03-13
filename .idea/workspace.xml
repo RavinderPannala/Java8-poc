@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Peek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SortedEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/SupplierEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Optional/Optional2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Optional/OptionalEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Utils/StudentUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/foreach/forEachEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/foreach/foreachOrderedEx.java" afterDir="false" />
+    <list default="true" id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/groupBy/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/groupBy/GroupByEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/Collectors/Joining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/Joiner/Joining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/AnyMatchEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/FlatMapEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/SkipAndLimit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/StreamCreation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/rpannala/Downloads/springMongoDBDemo"
+    "last_opened_file_path": "C:/Users/rpannala/Downloads/spring-boot-r2dbc-h2-example-master"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,7 +49,20 @@
       <recent name="C:\Users\rpannala\Downloads\Java8POC\src\com\java8\features\Utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Joining">
+  <component name="RunManager" selected="Application.GroupByEx">
+    <configuration name="GroupByEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.groupBy.GroupByEx" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.groupBy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Joining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.features.Joiner.Joining" />
       <module name="Java8POC" />
@@ -120,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.StreamCreation" />
-      <module name="Java8POC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupByEx" />
         <item itemvalue="Application.Joining" />
         <item itemvalue="Application.SortedEx3" />
         <item itemvalue="Application.SortedEx2" />
         <item itemvalue="Application.SortedEx" />
-        <item itemvalue="Application.StreamCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -152,9 +134,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677763733236</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1678103647018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678103647018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
