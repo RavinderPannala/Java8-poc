@@ -1,0 +1,20 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿï÷ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÿï÷ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÍÙè
+p
+java:S4276"URefactor this code to use the more specialised Functional Interface 'BooleanSupplier'(µ¼—…üÿÿÿÿ
+l
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(¦öò¯úÿÿÿÿ
+Y
+java:S1612">Replace this lambda with method reference 'name::toLowerCase'.(¡’õşÿÿÿÿ
+V
+java:S1612";Replace this lambda with method reference 'ArrayList::new'.(ÿï÷ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯¾Äûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–×µ´ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë°°¼ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(éÍ‚Ğ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¥¬÷ƒ

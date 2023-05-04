@@ -1,0 +1,19 @@
+
+T
+java:S3655""7Call "Optional#isPresent()" before accessing the value.(§¥ÌÀ8ÃåÚÓ÷0
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(·Ò¹8ÂåÚÓ÷0
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ÙËÕç8ÃåÚÓ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8ÓåÚÓ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ8×åÚÓ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä“‚ñ8ÚæÚÓ÷0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(·½Î8ßæÚÓ÷0
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(‡¸ëy8åæÚÓ÷0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¶½õÀ8êæÚÓ÷0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Í¡ãş8íæÚÓ÷0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(§¯´‰8òæÚÓ÷0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(´ãöş8÷æÚÓ÷0
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(“×ùï8ıæÚÓ÷0
+J
+java:S22019"-The return value of "findFirst" must be used.(í˜—¼8€çÚÓ÷0

@@ -1,0 +1,26 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Ò’×ú
+E
+java:S1611"/Remove the parentheses around the "s" parameter(Ò’×ú
+V
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(Ò’×ú
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ıƒ£Ú
+E
+java:S1611"/Remove the parentheses around the "s" parameter(ıƒ£Ú
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÜıÅ¸ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜıÅ¸ÿÿÿÿÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(•¯™Î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•¯™Î
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¥Çÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥Çÿÿÿÿÿ
+[
+java:S1612 "@Replace this lambda with method reference 'System.out::println'.(îÔ¼ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(îÔ¼ùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

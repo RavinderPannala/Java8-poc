@@ -1,0 +1,11 @@
+
+u
+java:S1192"`Define a constant instead of duplicating this literal "Limit  the n elements from list" 4 times.(‘ÐÕx
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´íø»
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÐÕx
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ë½ð
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ™¹Ð
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò„€ 
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

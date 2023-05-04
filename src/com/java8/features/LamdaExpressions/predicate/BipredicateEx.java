@@ -15,5 +15,12 @@ public class BipredicateEx {
         BiPredicate<Integer,Integer> biPredicate2 = (i1,i2)->i1>20&& i2<20;
         System.out.println(biPredicate2.test(30,10));
 
+        BiPredicate<String,Integer> biPredicate3 = (s,a)->{
+            return s.equals("Ravi") && a > 5;
+        };
+
+        BiPredicate<String, Integer> andPredicate = biPredicate3.or((s, a) -> s.endsWith("vi") && a >= 5);
+        System.out.println(andPredicate.test("Ravi",5));
+
     }
 }

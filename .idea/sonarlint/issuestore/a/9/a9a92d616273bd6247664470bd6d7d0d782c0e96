@@ -1,0 +1,14 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÊ÷Àûÿÿÿÿ8‰ó‚ø0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«î’ä8Šó‚ø0
+H
+java:S2201"+The return value of "collect" must be used.(ÿ“áò8Šó‚ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ›€‡øÿÿÿÿ8ó‚ø0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(…¹À×ıÿÿÿÿ8ó‚ø0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(«Ú±®8‘ó‚ø0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(î–Î¼ùÿÿÿÿ8’ó‚ø0
+]	java:S125."<This block of commented-out lines of code should be removed.(üÏšîøÿÿÿÿ8’ó‚ø0
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8“ó‚ø0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8“ó‚ø0

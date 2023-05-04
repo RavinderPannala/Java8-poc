@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À˜ğŞ
+P
+java:S6397"5Replace this character class by the character itself.(ÎËøïşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ñ×Ãşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD

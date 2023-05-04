@@ -1,0 +1,56 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Ravinder" 3 times.(´¿¨8ºæºñ÷0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿‰â®8¼æºñ÷0
+Q
+java:S1611"4Remove the parentheses around the "string" parameter(ıõî×8Åæºñ÷0
+I
+java:S1602",Remove useless curly braces around statement(ıõî×8Åæºñ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8Ææºñ÷0
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(Ğ¿À³úÿÿÿÿ8Çæºñ÷0
+Q
+java:S1611"/Remove the parentheses around the "i" parameter(Ğ¿À³úÿÿÿÿ8Çæºñ÷0
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ğ¿À³úÿÿÿÿ8Çæºñ÷0
+Q
+java:S1611"4Remove the parentheses around the "string" parameter(„İù‹8Èæºñ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„İù‹8Èæºñ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´™Óî8Éæºñ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ûè¡úÿÿÿÿ8Éæºñ÷0
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(İÚÓ¬8Êæºñ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İÚÓ¬8Êæºñ÷0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(™¯úÒ8Ìæºñ÷0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ç¹Ñì8Ìæºñ÷0
+T
+java:S1611&"2Remove the parentheses around the "name" parameter(ÕŒ£Öøÿÿÿÿ8Íæºñ÷0
+N
+java:S1602&",Remove useless curly braces around statement(ÕŒ£Öøÿÿÿÿ8Íæºñ÷0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¥Á‘Œ8Îæºñ÷0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Ã¬ƒ°8Îæºñ÷0
+N
+java:S1602+",Remove useless curly braces around statement(¡¶¶÷ùÿÿÿÿ8Ïæºñ÷0
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(±Ã­)8Ïæºñ÷0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ø“‹“ùÿÿÿÿ8Ñæºñ÷0
+Q
+java:S16110"/Remove the parentheses around the "a" parameter(Ù‰ŒŸúÿÿÿÿ8…çºñ÷0
+N
+java:S16020",Remove useless curly braces around statement(Ù‰ŒŸúÿÿÿÿ8‡çºñ÷0
+b
+java:S16120"@Replace this lambda with method reference 'System.out::println'.(Ù‰ŒŸúÿÿÿÿ8‡çºñ÷0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8‡çºñ÷0
+Q
+java:S16116"/Remove the parentheses around the "b" parameter(—İ±ùÿÿÿÿ8ˆçºñ÷0
+N
+java:S16026",Remove useless curly braces around statement(—İ±ùÿÿÿÿ8ˆçºñ÷0
+b
+java:S16126"@Replace this lambda with method reference 'System.out::println'.(—İ±ùÿÿÿÿ8ˆçºñ÷0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8ˆçºñ÷0
+Q
+java:S1611<"/Remove the parentheses around the "c" parameter(îÜÅ¼ıÿÿÿÿ8‰çºñ÷0
+N
+java:S1602<",Remove useless curly braces around statement(îÜÅ¼ıÿÿÿÿ8‰çºñ÷0
+b
+java:S1612<"@Replace this lambda with method reference 'System.out::println'.(îÜÅ¼ıÿÿÿÿ8‰çºñ÷0
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Áß‡Ü8‰çºñ÷0

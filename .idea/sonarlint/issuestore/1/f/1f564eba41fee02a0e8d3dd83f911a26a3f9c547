@@ -1,0 +1,13 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(Œ™¶Á
+N
+java:S1854	"8Remove this useless assignment to local variable "list".(ŠŒÖ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+?
+java:S1197"*Move the array designators [] to the type.(§ìe
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ú“‹ºùÿÿÿÿ

@@ -4,8 +4,7 @@ import com.java8.features.Employee;
 import com.java8.features.EmployeeUtils;
 
 import java.util.List;
-import java.util.function.BiFunction;
-import java.util.function.BiPredicate;
+import java.util.function.*;
 import java.util.stream.Collectors;
 
 public class BiFunctionEx {
@@ -16,17 +15,32 @@ public class BiFunctionEx {
 
         //List<Employee> matchedEmployees = fetchEmployeesMatchingToKey.apply("MOHAN", employees);
 
+        ToIntBiFunction<String, String> toIntBiFunction = (s1, s2) -> {
+            return Integer.parseInt(s1) + Integer.parseInt(s2);
+        };
 
+        ToDoubleBiFunction<Integer, Integer> toDoubleBiFunction = (s1, s2) -> {
+            return Double.valueOf(s1) + Double.valueOf(s2);
+        };
+
+        ToLongBiFunction<Double, Integer> toLongBiFunction = (s1, s2) -> {
+            return Double.valueOf(s1).longValue() + Long.valueOf(s2);
+        };
+
+        System.out.println(
+                toIntBiFunction.applyAsInt("1", "4") + "--->" +
+                        toDoubleBiFunction.applyAsDouble(4, 5) + "---" +
+                        toLongBiFunction.applyAsLong(20.0, 30));
 
 
     }
 
-    private  BiFunction<String, List<Employee>, List<Employee>> fetchEmployeesMatchingToKey = (search, empList) -> {
+    private BiFunction<String, List<Employee>, List<Employee>> fetchEmployeesMatchingToKey = (search, empList) -> {
         List<Employee> collect = empList.stream().filter(emp -> this.biPredicate.test(emp, search)).collect(Collectors.toList());
         return collect;
     };
 
-    private  BiPredicate<Employee, String> biPredicate = (employee, search) -> {
+    private BiPredicate<Employee, String> biPredicate = (employee, search) -> {
         boolean matches = employee.getFirstName().toLowerCase().matches(search)
                 || employee.getLastName().toUpperCase().matches(search);
         return matches;

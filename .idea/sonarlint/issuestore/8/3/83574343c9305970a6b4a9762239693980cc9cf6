@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+E
+java:S1611"/Remove the parentheses around the "i" parameter(·˜Ïê
+J
+java:S1611"/Remove the parentheses around the "i" parameter(èàíìøÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(èàíìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èàíìøÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

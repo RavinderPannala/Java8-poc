@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žËÎÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¦•¥
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ßÞ§ìþÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "s" parameter(ßÞ§ìþÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ßÞ§ìþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ž©êøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡‹»è
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Þ†ßÀüÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÁŽÖá
+J
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”

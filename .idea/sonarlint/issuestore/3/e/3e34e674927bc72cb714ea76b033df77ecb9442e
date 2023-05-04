@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÃŸ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÒˆÅ›
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Óú¸ù
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ã¢½¼
+N
+java:S1128"8Remove this unused import 'com.java8.features.Employee'.(áÀÀ°
+R
+java:S1128"=Remove this unused import 'com.java8.features.EmployeeUtils'.(Œ‹Ü
+S
+java:S1128"=Remove this unused import 'com.java8.features.Utils.Student'.(“Áî²
+]
+java:S1128"BRemove this unused import 'com.java8.features.Utils.StudentUtils'.(ÿ„Ó¼øÿÿÿÿ

@@ -1,0 +1,30 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Ì×ó
+W
+java:S1854$"<Remove this useless assignment to local variable "collect4".(­ƒàõşÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "collect1".(ÚÖİ
+R
+java:S1854"7Remove this useless assignment to local variable "map".(æ–úÿüÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "set".(€Õœ
+P
+java:S1854";Remove this useless assignment to local variable "collect".(µ ¤3
+A
+java:S1481",Remove this unused "collect" local variable.(µ ¤3
+>
+java:S1481"(Remove this unused "set" local variable.(€Õœ
+C
+java:S1481"(Remove this unused "map" local variable.(æ–úÿüÿÿÿÿ
+C
+java:S1481"-Remove this unused "collect1" local variable.(ÚÖİ
+G
+java:S1611"1Remove the parentheses around the "emp" parameter(Îäÿ—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ï¡‡
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÛÊÚêıÿÿÿÿ
+H
+java:S1481$"-Remove this unused "collect4" local variable.(­ƒàõşÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ç­Å¯øÿÿÿÿ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(Ò¿ÀW
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶

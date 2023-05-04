@@ -1,0 +1,21 @@
+
+E
+java:S1066""/Merge this if statement with the enclosing one.(ÿÍç
+J
+java:S1066#"/Merge this if statement with the enclosing one.(ö®‰Üıÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÊ“ùÿÿÿÿ
+/
+java:S2178"Correct this "&" to "&&".(ıß½¹
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ˆ¡ÿöøÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(’”‡šùÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.io.StringReader'.(¡Ö£
+K
+java:S1128"0Remove this unused import 'java.nio.CharBuffer'.(¦­²ãşÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'java.util.StringJoiner'.(ëûÁ‹úÿÿÿÿ
+S
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

@@ -1,0 +1,40 @@
+
+z
+java:S1488'"_Immediately return this expression instead of assigning it to the temporary variable "collect".(á­úÇÿÿÿÿÿ
+z
+java:S1488,"_Immediately return this expression instead of assigning it to the temporary variable "matches".(ðŸÀ°ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºËîÜùÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "employees".(•ñªþ
+D
+java:S1481".Remove this unused "employees" local variable.(•ñªþ
+V	java:S125"<This block of commented-out lines of code should be removed.(’ÞÌëüÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(»òðÌùÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ŽÇš¶ýÿÿÿÿ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Þ·æº
+5
+java:S2153"Remove the boxing of "s1".(¬þšÕùÿÿÿÿ
+c
+java:S2153"HRemove the boxing to "Double"; The argument is already of the same type.(¬þšÕùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+s
+java:S42762"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(éÑÊý
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¨×¶´
+x
+java:S42765"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ÜŽ¬ïÿÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(¥å©Š
+r
+java:S42768"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(ÃŸâü
+i
+java:S16028"SRemove useless curly braces around statement and then remove useless return keyword(ÃŸâü
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Éß‡€
+s
+java:S4276="]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(êÞ¦—
+i
+java:S1602="SRemove useless curly braces around statement and then remove useless return keyword(êÞ¦—
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ëÊºñùÿÿÿÿ
+Z
+java:S1068&"?Remove this unused "fetchEmployeesMatchingToKey" private field.(‹äÒâúÿÿÿÿ

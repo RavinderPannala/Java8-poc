@@ -1,0 +1,37 @@
+
+v
+java:S1488 "`Immediately return this expression instead of assigning it to the temporary variable "contains".(ÍØÄ¬
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ïÎñ
+W
+java:S18546"<Remove this useless assignment to local variable "collect2".(˜Ç¼Úüÿÿÿÿ
+Q
+java:S1854*";Remove this useless assignment to local variable "collect".(‘ÙŞ–
+S
+java:S1854"8Remove this useless assignment to local variable "test".(úÕô¢ıÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "p".(ş®æùÿÿÿÿÿ
+A
+java:S1481"&Remove this unused "p" local variable.(ş®æùÿÿÿÿÿ
+D
+java:S1481")Remove this unused "test" local variable.(úÕô¢ıÿÿÿÿ
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ÿŒ‹ß
+Q	java:S125"<This block of commented-out lines of code should be removed.(å·ôµ
+V	java:S125"<This block of commented-out lines of code should be removed.(À‚½…úÿÿÿÿ
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ü®¬
+V	java:S125"<This block of commented-out lines of code should be removed.( Ò¬õúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¯½©
+J
+java:S1611"4Remove the parentheses around the "string" parameter(”©¼Õ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¤ä¡õıÿÿÿÿ
+B
+java:S1481*",Remove this unused "collect" local variable.(‘ÙŞ–
+[
+java:S1612,"@Replace this lambda with method reference 'System.out::println'.(ßÃİ»ÿÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ßÃİ»ÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(·Şø«
+H
+java:S14816"-Remove this unused "collect2" local variable.(˜Ç¼Úüÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

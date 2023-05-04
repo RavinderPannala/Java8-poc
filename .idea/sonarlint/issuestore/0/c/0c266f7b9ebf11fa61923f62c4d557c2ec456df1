@@ -1,0 +1,17 @@
+
+Q
+java:S3655/"4Call "first.isPresent()" before accessing the value.(£¶Ï…8ˆã¢×÷0
+T
+java:S3655)"7Call "Optional#isPresent()" before accessing the value.(ù— Ï8ˆã¢×÷0
+T
+java:S3655("7Call "Optional#isPresent()" before accessing the value.(–´µ8ˆã¢×÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í±àˆÿÿÿÿÿ8’ã¢×÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â¨¦âşÿÿÿÿ8•ã¢×÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘éÓÚüÿÿÿÿ8•ã¢×÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(î×·Ş8˜ã¢×÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞèÚ¬øÿÿÿÿ8ã¢×÷0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(úó›Ü8 ã¢×÷0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ó½ú¾8¢ã¢×÷0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(£¶Ï…8¦ã¢×÷0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(–õµ®8¨ã¢×÷0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ò¶£8Å–¤×÷0

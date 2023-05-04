@@ -1,0 +1,17 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 3 times.(ºœãúÿÿÿÿ
+m
+java:S1192"RDefine a constant instead of duplicating this literal "Software Engineer" 4 times.(ºœãúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•é¥ß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(©šŒ•
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(‰‚‡Ô
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÜğÄã
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ò”é
+S	java:S106="9Replace this use of System.out or System.err by a logger.(«€Âäøÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'com.java8.features.Utils.Student'.(“Áî²
+]
+java:S1128"BRemove this unused import 'com.java8.features.Utils.StudentUtils'.(ÿ„Ó¼øÿÿÿÿ

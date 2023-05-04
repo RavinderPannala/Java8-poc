@@ -8,12 +8,15 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 public class ComparatorEx {
 
     public static void main(String[] args) {
 
         List<Employee> employeeList = EmployeeUtils.fetchEmployee();
+
+        employeeList.stream().sorted(Comparator.comparing(Employee::getFirstName,Comparator.nullsFirst(Comparator.reverseOrder()))).collect(Collectors.toList());
 
         Comparator<Employee> employeeComparator = Comparator.comparing(Employee::getFirstName);
         Comparator<Employee> reversed = employeeComparator.reversed();
@@ -36,6 +39,11 @@ public class ComparatorEx {
         //Sort By LastName and Id
         employeeList.stream().sorted(employeeComparator5).forEach(System.out::println);
 
+        employeeList.stream()
+                .sorted(Comparator.comparing(Employee::getSalary)
+                        .thenComparing(Employee::getFirstName,Comparator.nullsFirst(Comparator.reverseOrder())))
+                .collect(Collectors.toList());
+
         //Sort By ID and Salary
         employeeList.stream().sorted(employeeComparator6).forEach(System.out::println);
 
@@ -52,6 +60,8 @@ public class ComparatorEx {
         employeeList.stream()
                 .sorted(Comparator.comparing(Employee::getFirstName, Comparator.nullsLast(Comparator.reverseOrder())))
                 .forEach(System.out::println);
+
+        employeeList.stream().sorted(Comparator.comparing(Employee::getFirstName, Comparator.nullsLast(Comparator.reverseOrder())));
     }
 
 }

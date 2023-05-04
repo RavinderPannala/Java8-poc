@@ -1,0 +1,62 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "Ravinder" 3 times.(á³Áÿşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºËîÜùÿÿÿÿ
+o
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(Àİ½‚
+E
+java:S1611"/Remove the parentheses around the "i" parameter(Àİ½‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºüÍı
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(çµÈ¦ÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(çµÈ¦ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹æ…™ùÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(·ß·ø
+p
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(”·ó7
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(È»Ğ§úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á³Áÿşÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(òÑ–•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªÂÑš
+v
+java:S4276 "[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(û‰ù”ıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¬·¯§
+L
+java:S1611%"6Remove the parentheses around the "employee" parameter(×óû´
+i
+java:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(×óû´
+V
+java:S1612("@Replace this lambda with method reference 'System.out::println'.(İÜ¼Î
+N	java:S106("9Replace this use of System.out or System.err by a logger.(İÜ¼Î
+J
+java:S1611+"4Remove the parentheses around the "salary" parameter(ĞåŸ
+i
+java:S1602+"SRemove useless curly braces around statement and then remove useless return keyword(ĞåŸ
+R
+java:S1612+"<Replace this lambda with method reference 'BigDecimal::new'.(ĞåŸ
+<
+java:S2111,"!Use "BigDecimal.valueOf" instead.(îÂ §ùÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Íø‹Šüÿÿÿÿ
+x
+java:S42760"]Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Employee>'(ëó¯úÿÿÿÿ
+Q
+java:S16110"6Remove the parentheses around the "employee" parameter(ëó¯úÿÿÿÿ
+E
+java:S16115"/Remove the parentheses around the "e" parameter(€­«…
+V
+java:S16125"@Replace this lambda with method reference 'System.out::println'.(€­«…
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(€­«…
+p
+java:S42769"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(£öóa
+D
+java:S16119"/Remove the parentheses around the "s" parameter(£öóa
+q
+java:S4276:"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(“Øªƒ
+V
+java:S1612:"@Replace this lambda with method reference 'String::toUpperCase'.(“Øªƒ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(€¬åò
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(éõÄúÿÿÿÿ

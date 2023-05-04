@@ -1,0 +1,31 @@
+
+u
+java:S1488K"_Immediately return this expression instead of assigning it to the temporary variable "collect".(¥íß¿
+o
+java:S1488P"YImmediately return this expression instead of assigning it to the temporary variable "b".(¥™Í¦
+q
+java:S1104J"VMake biFunction a static final constant or non-public and provide accessors if needed.(¯õ«Êûÿÿÿÿ
+k
+java:S1104O"UMake predicate a static final constant or non-public and provide accessors if needed.(áƒ»»
+w
+java:S1104T"\Make fullNameFunction a static final constant or non-public and provide accessors if needed.(“ÿåíûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨½Ë÷üÿÿÿÿ
+L
+java:S3655."7Call "Optional#isPresent()" before accessing the value.(òÂÁQ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İ‰¦
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(„íí
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+l
+java:S2159F"VRemove this call to "equals"; comparisons between unrelated types always return false.(ûÖˆ¦
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(µë
+w
+java:S4276T"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Student>'(“ÿåíûÿÿÿÿ
+L
+java:S1611T"1Remove the parentheses around the "std" parameter(“ÿåíûÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'com.java8.features.Employee'.(áÀÀ°
+R
+java:S1128"=Remove this unused import 'com.java8.features.EmployeeUtils'.(Œ‹Ü
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶

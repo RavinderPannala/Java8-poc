@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡±‚°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸­¤îüÿÿÿÿ
+A
+java:S2201"+The return value of "collect" must be used.(‘ì¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+J
+java:S1128	"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+S
+java:S1128
+"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+P
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖĞ©
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

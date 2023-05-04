@@ -5,9 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f863ec8-1d44-4b4b-b95d-fc49f43d843d" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/groupBy/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/features/groupBy/GroupByEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/UnaryOperator/BinaryOperEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/UnaryOperator/UnaryOperatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/practice/EmployeeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/practice/OtherQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/practice/SingletonEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/practice/SortHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/AngramString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/ExcelSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/SplitString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/strings/String2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/EmployeeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/FunctionalInterfaces/streams/ComparatorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/BiFunctionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/BiFunctionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/FunctionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/Function/FunctionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/SupplierEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/SupplierEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/consumer/ConsumerEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/consumer/ConsumerEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/BipredicateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/BipredicateEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/LamdaExpressions/predicate/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/features/Optional/OptionalEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/features/Optional/OptionalEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +65,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/rpannala/Downloads/spring-boot-r2dbc-h2-example-master"
+    "last_opened_file_path": "C:/Users/rpannala/Documents/Kafka-practice/spring-boot-kafka-microservices",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -49,35 +77,9 @@
       <recent name="C:\Users\rpannala\Downloads\Java8POC\src\com\java8\features\Utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GroupByEx">
-    <configuration name="GroupByEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.groupBy.GroupByEx" />
-      <module name="Java8POC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.groupBy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Joining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.Joiner.Joining" />
-      <module name="Java8POC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.features.Joiner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="AnyMatchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.AnyMatchEx" />
       <module name="Java8POC" />
       <extension name="coverage">
         <pattern>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx2" />
+    <configuration name="EmployeeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.practice.EmployeeExample" />
       <module name="Java8POC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="PATTERN" value="com.java8.features.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +104,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.features.FunctionalInterfaces.streams.SortedEx3" />
+    <configuration name="OptionalEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Optional.OptionalEx" />
       <module name="Java8POC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.features.FunctionalInterfaces.streams.*" />
+          <option name="PATTERN" value="com.java8.features.Optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtherQuestions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.practice.OtherQuestions" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.practice.Test" />
+      <module name="Java8POC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupByEx" />
-        <item itemvalue="Application.Joining" />
-        <item itemvalue="Application.SortedEx3" />
-        <item itemvalue="Application.SortedEx2" />
-        <item itemvalue="Application.SortedEx" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.OtherQuestions" />
+        <item itemvalue="Application.EmployeeExample" />
+        <item itemvalue="Application.OptionalEx" />
+        <item itemvalue="Application.AnyMatchEx" />
       </list>
     </recent_temporary>
   </component>
@@ -141,12 +169,45 @@
       <option name="project" value="LOCAL" />
       <updated>1678103647018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1678677687009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678677687009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java8/features/strings/ExcelSheet.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java8/features/strings/ExcelSheet.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java8/features/strings/ExcelSheet.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java8/features/strings/ExcelSheet.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
